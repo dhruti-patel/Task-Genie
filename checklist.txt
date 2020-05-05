@@ -1,0 +1,18 @@
+all pages : nav bar
+---validation of payment form
+---password validation
+change password
+search page
+---register admin
+---office page
+---kitchen page 
+---register page mobile no
+---remove state from payment page
+---replace pincode with city in registration page
+---comment field
+page hits
+upvote downvote
+feedback textarea
+
+
+
